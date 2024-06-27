@@ -1,0 +1,21 @@
+Estrutura do código
+src
+├── GUI
+│   ├── ConfiguracoesDialog.java
+│   ├── ServerMonitor.java
+│   └── assets
+│       ├── logo.png
+│       ├── fundo.png
+│       ├── logoSistema.png
+│       ├── salvar.png
+│       ├── configuracao.png
+│       ├── excluir.png
+│       ├── fundoVerde.png
+│       └── fundoVermelho.png
+├── SERVER
+│   ├── Server.java
+│   └── ServerFileHandler.java
+├── MAIN
+│   └── Main.java
+└── resources
+    └── servers.txt
